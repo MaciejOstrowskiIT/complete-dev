@@ -1,6 +1,8 @@
 [submodule "ms-test-two"]
 	path = ms-test-two
 	url = https://github.com/MaciejOstrowskiIT/ms-test-two
+	branch = master
 [submodule "ms-test"]
 	path = ms-test
 	url = https://github.com/MaciejOstrowskiIT/ms-test
+	branch = master
